@@ -1,0 +1,43 @@
+.navigation .container-fluid {
+    background-color: #2E2E2E;
+    color: #FFFFFF;
+    font-size: 14;
+}
+
+.custom-nav {
+    background-color: #000000;
+    color: white;
+}
+
+.get-started-button {
+    border-radius: 20px;
+    background: linear-gradient(to right, rgb(235, 117, 123), rgb(235, 117, 123));
+}
+
+.intro {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.logo-setting {
+    display: grid inline-grid;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.logo-setting img {
+    opacity: 0,7;
+    margin: o 10px;
+}
+
+.content{
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.editor{
+    background-color: #000000;
+    color: #FFFFFF;
+
+}
